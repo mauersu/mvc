@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mvc>
+	<action name="hello" class="com.howto.mvc.Hello" method="hello">
+		<result name="success">/index.jsp</result>
+	</action>
+</mvc>
